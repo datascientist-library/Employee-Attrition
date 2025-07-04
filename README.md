@@ -47,8 +47,45 @@ This project explores factors contributing to employee attrition using SQL for d
 
 ---
 
-## 📊 Key SQL Insights
+## 📈 Power BI Dashboard
+The dashboard includes:
+-	Overall Attrition Rate
+-	Department-wise & Role-wise attrition
+-	Attrition by Department and Gender
+-	Attrition by Work Life Balance, Travel and Education Field
+-	Filters for dynamic exploration
 
-### 🔹 1. Total Attrition Count
-```sql
-SELECT COUNT(*) FROM hr_data WHERE Attrition = 'Yes';
+---
+
+## 🧠 Key Insights
+-	OverTime, low satisfaction, and short tenure increase attrition risk.
+-	Sales and R&D have the highest attrition rates.
+-	Employees with Risk Score ≥ 4 are highly likely to leave.
+
+---
+
+## 🚀 Future Work
+-	Use Python to build a predictive model (e.g., Logistic Regression)
+-	Add time-series attrition trends
+-	Connect to live HR systems via SQL Server for real-time insights
+
+---
+
+## 📁 Files
+
+-	emp_attrition/
+├── EMP_ATTRITION_DASHBOARD.pbix
+├── EMP_ATTRITION_PRESENTATION.pptx
+├── Questions.docx
+├── SQLQuery Level1.sql
+├── SQLQuery Level2.sql
+├── SQLQuery Level3.sql
+├── dashboard.png
+└── README.md
+
+---
+
+## Author
+
+**Mihir Patil**  
+Data Science Capstone Project
