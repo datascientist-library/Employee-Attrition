@@ -32,16 +32,16 @@ This project explores factors contributing to employee attrition using SQL for d
 
 ## 📂 Dataset
 
-| Feature                | Description                            |
-|------------------------|----------------------------------------|
-| `Attrition`            | Whether the employee left (Yes/No)     |
-| `Department`           | HR, R&D, or Sales                      |
-| `JobRole`              | Role held by the employee              |
-| `OverTime`             | Whether the employee works overtime    |
-| `MonthlyIncome`        | Income of the employee                 |
-| `JobSatisfaction`      | Satisfaction level (1 to 4)            |
-| `WorkLifeBalance`      | Work-life balance rating (1 to 4)      |
-| ...                    | 35 total features                      |
+| Feature                | Description                                     |
+|------------------------|-------------------------------------------------|
+| `Attrition`            | Whether the employee left (Yes/No)              |
+| `Department`           | HR, R&D, or Sales                               |
+| `JobRole`              | Role held by the employee                       |
+| `OverTime`             | Whether the employee works overtime (Yes/ No)   |
+| `MonthlyIncome`        | Income of the employee                          |
+| `JobSatisfaction`      | Satisfaction level (1 to 4)                     |
+| `WorkLifeBalance`      | Work-life balance rating (1 to 4)               |
+| ...                    | 35 total features                               |
 
 📥 Dataset: [IBM HR Analytics on Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
@@ -57,10 +57,11 @@ The dashboard includes:
 
 ---
 
-## 🧠 Key Insights
+## 💡 Key Insights
 -	OverTime, low satisfaction, and short tenure increase attrition risk.
--	Sales and R&D have the highest attrition rates.
--	Employees with Risk Score ≥ 4 are highly likely to leave.
+-	Sales and Human Resources department have the highest attrition rates.
+-	Employees with Risk Factor ≥ 4 are highly likely to leave.
+-	Overwork also has a strong influence on attrition rate.
 
 ---
 
@@ -68,6 +69,7 @@ The dashboard includes:
 -	Use Python to build a predictive model (e.g., Logistic Regression)
 -	Add time-series attrition trends
 -	Connect to live HR systems via SQL Server for real-time insights
+
 
 ---
 
@@ -87,7 +89,7 @@ emp_attrition/
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Mihir Patil**  
 Data Science Capstone Project
