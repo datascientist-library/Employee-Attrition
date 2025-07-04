@@ -73,6 +73,7 @@ The dashboard includes:
 
 ## 📁 Files
 
+```
 -	emp_attrition/
 ├── EMP_ATTRITION_DASHBOARD.pbix
 ├── EMP_ATTRITION_PRESENTATION.pptx
@@ -82,6 +83,7 @@ The dashboard includes:
 ├── SQLQuery Level3.sql
 ├── dashboard.png
 └── README.md
+```
 
 ---
 
