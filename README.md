@@ -74,7 +74,7 @@ The dashboard includes:
 ## 📁 Files
 
 ```
--	emp_attrition/
+emp_attrition/
 ├── EMP_ATTRITION_DASHBOARD.pbix
 ├── EMP_ATTRITION_PRESENTATION.pptx
 ├── Questions.docx
