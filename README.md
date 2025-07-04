@@ -4,7 +4,7 @@
 
 > A data-driven HR analytics project that identifies patterns in employee attrition using SQL and visualizes insights in Power BI.
 
-![Dashboard Preview](assets/dashboard-preview.png) <!-- Optional: Replace with your own screenshot path -->
+![Dashboard Preview](assets/dashboard.png) <!-- Optional: Replace with your own screenshot path -->
 
 ---
 
