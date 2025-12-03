@@ -1,19 +1,19 @@
 # Employee-Attrition
 
-# 💼 Employee Attrition Analysis Using SQL and Power BI
+#  Employee Attrition Analysis Using SQL and Power BI
 
 > A data-driven HR analytics project that identifies patterns in employee attrition using SQL and visualizes insights in Power BI.
 
 ![Dashboard Preview](dashboard.png) 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project explores factors contributing to employee attrition using SQL for data analysis and Power BI for visual storytelling. The insights can help HR departments take proactive steps to improve employee retention and work-life satisfaction.
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 - **SQL Server** for data analysis and transformation
 - **Power BI Desktop** for dashboarding and visualization
@@ -21,7 +21,7 @@ This project explores factors contributing to employee attrition using SQL for d
 
 ---
 
-## 🧠 Objectives
+##  Objectives
 
 - Understand which departments and roles have the highest attrition
 - Identify risk indicators like OverTime, JobSatisfaction, WorkLifeBalance
@@ -30,7 +30,7 @@ This project explores factors contributing to employee attrition using SQL for d
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 | Feature                | Description                                     |
 |------------------------|-------------------------------------------------|
@@ -43,11 +43,11 @@ This project explores factors contributing to employee attrition using SQL for d
 | `WorkLifeBalance`      | Work-life balance rating (1 to 4)               |
 | ...                    | 35 total features                               |
 
-📥 Dataset: [IBM HR Analytics on Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+ Dataset: [IBM HR Analytics on Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ---
 
-## 📈 Power BI Dashboard
+##  Power BI Dashboard
 The dashboard includes:
 -	Overall Attrition Rate
 -	Department-wise & Role-wise attrition
@@ -57,7 +57,7 @@ The dashboard includes:
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 -	OverTime, low satisfaction, and short tenure increase attrition risk.
 -	Sales and Human Resources department have the highest attrition rates.
 -	Employees with Risk Factor ≥ 4 are highly likely to leave.
@@ -65,7 +65,7 @@ The dashboard includes:
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 -	Use Python to build a predictive model (e.g., Logistic Regression)
 -	Add time-series attrition trends
 -	Connect to live HR systems via SQL Server for real-time insights
@@ -73,7 +73,7 @@ The dashboard includes:
 
 ---
 
-## 📁 Files
+##  Files
 
 ```
 emp_attrition/
@@ -89,7 +89,7 @@ emp_attrition/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Mihir Patil**  
 Data Science Capstone Project
